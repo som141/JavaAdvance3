@@ -1,4 +1,4 @@
-package lamda;
+package lamda.EX;
 
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package lamda;
+package lamda.EX;
 
 public class EX0Main {
     public static void helloJava() {

@@ -1,4 +1,4 @@
-package lamda;
+package lamda.EX;
 //변하지 않는 부분과 변하는 부분을 분리해야한다.
 public class EX0ReMain {
 //    value parameterization(값을 외부에서 받아 처리)
