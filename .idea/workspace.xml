@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a20675b-5cf1-453f-9d1e-b7efd6bea03f" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lamda/lamda2/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lamda/lamda2/M2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lamda/lamda2/M3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lamda/lamda2/MyFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lamda/lamda2/BuildGreeterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lamda/lamda2/ComposeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lamda/lamda2/FilterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lamda/lamda2/MapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lamda/lamda2/MyPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lamda/lamda2/StringFunction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,15 +72,19 @@
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true",
+    "애플리케이션.BuildGreeterExample.executor": "Run",
+    "애플리케이션.ComposeExample.executor": "Run",
     "애플리케이션.EX0ReMain.executor": "Run",
     "애플리케이션.Ex1Main.executor": "Run",
     "애플리케이션.Ex1ReMain.executor": "Run",
     "애플리케이션.Ex1ReMain2.executor": "Run",
+    "애플리케이션.FilterExample.executor": "Run",
     "애플리케이션.LamdaPassMain1.executor": "Run",
     "애플리케이션.LamdaPassMain2.executor": "Run",
     "애플리케이션.M1.executor": "Run",
     "애플리케이션.M2.executor": "Run",
     "애플리케이션.M3.executor": "Run",
+    "애플리케이션.MapExample.executor": "Run",
     "애플리케이션.TEST1.executor": "Run",
     "애플리케이션.cloneEx.executor": "Run",
     "애플리케이션.lamda1.executor": "Run",
@@ -88,14 +94,17 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="lamda.lamda2" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="lamda.lamda2" />
       <recent name="lamda" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.M3">
-    <configuration name="LamdaPassMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lamda.lamda2.LamdaPassMain1" />
+  <component name="RunManager" selected="애플리케이션.ComposeExample">
+    <configuration name="BuildGreeterExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lamda.lamda2.BuildGreeterExample" />
       <module name="JavaAdvance3" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LamdaPassMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lamda.lamda2.LamdaPassMain2" />
+    <configuration name="ComposeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lamda.lamda2.ComposeExample" />
       <module name="JavaAdvance3" />
       <extension name="coverage">
         <pattern>
@@ -120,21 +129,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="M1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lamda.lamda2.M1" />
-      <module name="JavaAdvance3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lamda.lamda2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="M2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lamda.lamda2.M2" />
+    <configuration name="FilterExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lamda.lamda2.FilterExample" />
       <module name="JavaAdvance3" />
       <extension name="coverage">
         <pattern>
@@ -159,13 +155,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lamda.lamda2.MapExample" />
+      <module name="JavaAdvance3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lamda.lamda2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.ComposeExample" />
+        <item itemvalue="애플리케이션.BuildGreeterExample" />
+        <item itemvalue="애플리케이션.MapExample" />
+        <item itemvalue="애플리케이션.FilterExample" />
         <item itemvalue="애플리케이션.M3" />
-        <item itemvalue="애플리케이션.M2" />
-        <item itemvalue="애플리케이션.M1" />
-        <item itemvalue="애플리케이션.LamdaPassMain2" />
-        <item itemvalue="애플리케이션.LamdaPassMain1" />
       </list>
     </recent_temporary>
   </component>
@@ -196,6 +205,7 @@
       <workItem from="1745469003130" duration="1199000" />
       <workItem from="1745470313177" duration="1003000" />
       <workItem from="1745473013469" duration="2365000" />
+      <workItem from="1745553686035" duration="5026000" />
     </task>
     <servers />
   </component>
