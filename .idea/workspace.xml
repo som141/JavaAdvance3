@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a20675b-5cf1-453f-9d1e-b7efd6bea03f" name="변경" comment="e">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lamda/lamda4/filter/FilterMainV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lamda/lamda4/filter/FilterMainV1.java" afterDir="false" />
-    </list>
+    <list default="true" id="2a20675b-5cf1-453f-9d1e-b7efd6bea03f" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,12 +27,12 @@
     &quot;assignee&quot;: &quot;som141&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/som141/JavaAdvance3.git&quot;,
-    &quot;accountId&quot;: &quot;277bcfd5-0f37-48dc-9c8c-c59f8aab9955&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/som141/JavaAdvance3.git",
+    "accountId": "b93087d9-6e10-44d4-bd30-a012b2afb407"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -215,26 +212,12 @@
       <workItem from="1747104625090" duration="3558000" />
       <workItem from="1747109909843" duration="3000" />
       <workItem from="1747117522253" duration="3930000" />
-      <workItem from="1747121895972" duration="686000" />
-      <workItem from="1747194804300" duration="188000" />
+      <workItem from="1747135403688" duration="647000" />
     </task>
-    <task id="LOCAL-00001" summary="e">
-      <option name="closed" value="true" />
-      <created>1747194970150</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1747194970150</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="e" />
-    <option name="LAST_COMMIT_MESSAGE" value="e" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
