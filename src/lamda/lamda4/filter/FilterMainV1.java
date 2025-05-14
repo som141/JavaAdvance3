@@ -12,7 +12,7 @@ public class FilterMainV1 {
         List<Integer> evenNumbers= filterEvenNumber(numbers);
         System.out.println(evenNumbers);
         List<Integer> filter2=filter1(numbers,i->i%2==0);
-        System.out.println(filter2);
+        System.out.println(filter2);git
         //홀수만 거르기
         numbers.stream().filter(i->i%2==1).forEach(i->System.out.print(i+", "));
         System.out.println(numbers.stream().filter(i->i%2==1).map(i->Integer.toString(i)).collect(Collectors.joining(", ")));
