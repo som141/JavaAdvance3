@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a20675b-5cf1-453f-9d1e-b7efd6bea03f" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lamda/lamda4/Ex/ExNumber1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lamda/lamda4/map/GenericMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lamda/lamda4/map/LamdaMapV1.java" afterDir="false" />
+    <list default="true" id="2a20675b-5cf1-453f-9d1e-b7efd6bea03f" name="변경" comment="e">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,71 +46,68 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;애플리케이션.BuildGreeterExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ComposeExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.EX0ReMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Ex1Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Ex1ReMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Ex1ReMain2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ExNumber1.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.FilterExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.FilterMainV1.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.GenericMain1.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.GenericMap.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.LamdaMapV1.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.LamdaPassMain1.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.LamdaPassMain2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.M1.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.M2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.M3.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.MapExample.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.TEST1.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.TargetType.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.cloneEx.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.lamda1.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.lamda2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.lamdaMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.lamdaSimple1.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDK",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.BuildGreeterExample.executor": "Run",
+    "애플리케이션.ComposeExample.executor": "Run",
+    "애플리케이션.EX0ReMain.executor": "Run",
+    "애플리케이션.Ex1Main.executor": "Run",
+    "애플리케이션.Ex1ReMain.executor": "Run",
+    "애플리케이션.Ex1ReMain2.executor": "Run",
+    "애플리케이션.FilterExample.executor": "Run",
+    "애플리케이션.FilterMainV1.executor": "Run",
+    "애플리케이션.GenericMain1.executor": "Run",
+    "애플리케이션.LamdaPassMain1.executor": "Run",
+    "애플리케이션.LamdaPassMain2.executor": "Run",
+    "애플리케이션.M1.executor": "Run",
+    "애플리케이션.M2.executor": "Run",
+    "애플리케이션.M3.executor": "Run",
+    "애플리케이션.MapExample.executor": "Run",
+    "애플리케이션.TEST1.executor": "Run",
+    "애플리케이션.TargetType.executor": "Run",
+    "애플리케이션.cloneEx.executor": "Run",
+    "애플리케이션.lamda1.executor": "Run",
+    "애플리케이션.lamda2.executor": "Run",
+    "애플리케이션.lamdaMain.executor": "Run",
+    "애플리케이션.lamdaSimple1.executor": "Run",
+    "애플리케이션.wildcard.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="lamda.lamda2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="lamda.lamda4.map" />
       <recent name="lamda.lamda3" />
       <recent name="lamda.lamda2" />
       <recent name="lamda" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.ExNumber1">
-    <configuration name="ExNumber1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lamda.lamda4.Ex.ExNumber1" />
+  <component name="RunManager" selected="애플리케이션.wildcard">
+    <configuration name="ComposeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lamda.lamda2.ComposeExample" />
       <module name="JavaAdvance3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lamda.lamda4.Ex.*" />
+          <option name="PATTERN" value="lamda.lamda2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,25 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lamda.lamda4.map.GenericMap" />
+    <configuration name="GenericMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lamda.lamda3.GenericMain1" />
       <module name="JavaAdvance3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lamda.lamda4.map.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LamdaMapV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lamda.lamda4.map.LamdaMapV1" />
-      <module name="JavaAdvance3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lamda.lamda4.map.*" />
+          <option name="PATTERN" value="lamda.lamda3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,13 +154,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="wildcard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generic.wildcard" />
+      <module name="JavaAdvance3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Generic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.ExNumber1" />
-        <item itemvalue="애플리케이션.GenericMap" />
-        <item itemvalue="애플리케이션.LamdaMapV1" />
+        <item itemvalue="애플리케이션.wildcard" />
         <item itemvalue="애플리케이션.FilterMainV1" />
         <item itemvalue="애플리케이션.TargetType" />
+        <item itemvalue="애플리케이션.GenericMain1" />
+        <item itemvalue="애플리케이션.ComposeExample" />
       </list>
     </recent_temporary>
   </component>
@@ -221,13 +215,27 @@
       <workItem from="1747104625090" duration="3558000" />
       <workItem from="1747109909843" duration="3000" />
       <workItem from="1747117522253" duration="3930000" />
-      <workItem from="1747135403688" duration="5496000" />
-      <workItem from="1747374325135" duration="143000" />
+      <workItem from="1747135403688" duration="647000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="e" />
+    <option name="LAST_COMMIT_MESSAGE" value="e" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
