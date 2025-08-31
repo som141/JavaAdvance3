@@ -10,7 +10,7 @@ public class 부분수열고르기 {
     static int N;
     static int a;
     static int d;
-    static long M;
+    static int M;
     static long [][]dp;
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -18,9 +18,9 @@ public class 부분수열고르기 {
         N=Integer.parseInt(st.nextToken());
         a=Integer.parseInt(st.nextToken());
         d=Integer.parseInt(st.nextToken());
-        M=Long.parseLong(st.nextToken());
+        M=Integer.parseInt(st.nextToken());
         arr=new int[N+1];
-        dp=new Long[N+1][M+1];
+        dp= new long[N + 1][M + 1];
         for(int i=1;i<=N;i++){
             arr[i]=a+d*(i-1);
         }
