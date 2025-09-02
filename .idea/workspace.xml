@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a20675b-5cf1-453f-9d1e-b7efd6bea03f" name="변경" comment="e">
-      <change afterPath="$PROJECT_DIR$/src/lamda/lamda6/ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lamda/lamdaS/MyStreamV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lamda/lamdaS/MyStreamV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lamda/lamdaS/MyStreamV3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lamda/methodch/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lamda/methodch/ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lamda/methodch/ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lamda_remind/classs/animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lamda_remind/generic/genericRamda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Generic/wildcard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generic/wildcard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lamda/methodch/ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lamda/methodch/ex2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -249,6 +240,7 @@
       <workItem from="1754293946435" duration="2255000" />
       <workItem from="1755179218301" duration="2670000" />
       <workItem from="1755696391277" duration="522000" />
+      <workItem from="1756696702415" duration="2031000" />
     </task>
     <servers />
   </component>
