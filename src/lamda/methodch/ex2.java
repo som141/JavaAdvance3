@@ -1,5 +1,6 @@
 package lamda.methodch;
 
+import java.util.List;
 import java.util.function.Supplier;
 
 public class ex2 {
@@ -21,7 +22,26 @@ public class ex2 {
 
         System.out.println(staticMethod5.get());
         System.out.println(staticMethod6.get());
-        
+        Person s= staticMethod5.get();
+        System.out.println(s.getName());
 
+        List<Integer> list = List.of(1, 2, 3, 4, 5, 6);
+        List<Integer> list1 = list.stream().filter(ex2::fi).map((i) -> {
+            System.out.println(i + "에서 1더하기");
+            return i + 1;
+        }).toList();
+        System.out.println(list1);
+
+
+    }
+
+    private static boolean fi(Integer i) {
+        if(i%2==0){
+            System.out.println(i+ "는 짝수 통과");
+            return true;
+        }else {
+            System.out.println(i+"는 홀수 걸러짐");
+            return false;
+        }
     }
 }
