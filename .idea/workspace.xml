@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a20675b-5cf1-453f-9d1e-b7efd6bea03f" name="변경" comment="e">
-      <change afterPath="$PROJECT_DIR$/src/stream/flatMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream/optional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream/t1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream/optional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/optional.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +58,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/som14/OneDrive/바탕 화면/design_pattern",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -240,6 +239,10 @@
       <workItem from="1757449222069" duration="8831000" />
       <workItem from="1757467723287" duration="2301000" />
       <workItem from="1757562056456" duration="1886000" />
+      <workItem from="1757907004652" duration="1146000" />
+      <workItem from="1757908838784" duration="984000" />
+      <workItem from="1758082267595" duration="67000" />
+      <workItem from="1758082501087" duration="26000" />
     </task>
     <servers />
   </component>

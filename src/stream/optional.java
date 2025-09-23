@@ -1,7 +1,6 @@
 package stream;
 
-import java.util.NoSuchElementException;
-import java.util.Optional;
+import java.util.*;
 
 public class optional {
     public static void main(String[] args) {
@@ -16,5 +15,11 @@ public class optional {
         catch (t1 e1){
             System.out.println(e1.getMessage());
         }
+        List<Integer> list = List.of(1,2,3,4,4,4,4);
+        List<Integer> sortedList = list.stream().sorted(Comparator.reverseOrder()).toList();
+        list.stream().peek(i-> System.out.print(i+" ")).limit(5).distinct().forEach(System.out::println);
+        System.out.println("sortedList = "+sortedList);
+
+
     }
 }
